@@ -1,1 +1,2 @@
-this activity is very fun. 
+this activity is definitely very fun. 
+time to cause a merge conflict
